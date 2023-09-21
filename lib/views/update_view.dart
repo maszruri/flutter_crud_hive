@@ -54,7 +54,7 @@ class _UpdateViewState extends State<UpdateView> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Add"),
+        title: const Text("Update"),
       ),
       body: Padding(
         padding: const EdgeInsets.all(15),
